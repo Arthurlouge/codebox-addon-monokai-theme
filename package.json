@@ -1,0 +1,15 @@
+{
+    "name": "theme.monokai",
+    "version": "0.0.1",
+    "title": "Monokai Theme",
+    "description": "Monokai syntax highlighting",
+    "homepage": "https://github.com/Arthurlouge/codebox-theme-monokai",
+    "license": "Apache",
+    "author": {
+        "name": "Arthur",
+        "email": "arthur.louge@gmail.com",
+    },
+    "client": {
+        "main": "client"
+    }
+}
