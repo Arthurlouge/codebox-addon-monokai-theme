@@ -4,7 +4,6 @@
     "title": "Monokai Theme",
     "description": "Monokai syntax highlighting",
     "homepage": "https://github.com/Arthurlouge/codebox-theme-monokai",
-    "license": "Apache",
     "author": {
         "name": "Arthur",
         "email": "arthur.louge@gmail.com",
@@ -12,5 +11,8 @@
     },
     "client": {
         "main": "client"
+    },
+    "engines": {
+        "codebox": ">=0.7.0"
     }
 }
