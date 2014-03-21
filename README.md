@@ -1,3 +1,3 @@
-# Codebox Theme
+# Codebox addon Theme
 
-## Monokai theme
+Monokai theme for Codebox IDE (https://github.com/FriendCode/codebox).
