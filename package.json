@@ -1,9 +1,9 @@
 {
-    "name": "theme.monokai",
+    "name": "codebox-addon-monokai-theme",
     "version": "0.0.1",
     "title": "Monokai Theme",
     "description": "Monokai syntax highlighting",
-    "homepage": "https://github.com/Arthurlouge/codebox-theme-monokai",
+    "homepage": "https://github.com/Arthurlouge/codebox-addon-monokai-theme",
     "author": {
         "name": "Arthur",
         "email": "arthur.louge@gmail.com",
