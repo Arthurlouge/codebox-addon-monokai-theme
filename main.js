@@ -16,8 +16,8 @@ define([
     var colorLight = "#dadfe6";
 
     themes.add({
-        id: "dark",
-        title: "Dark",
+        id: "monokai",
+        title: "Monokai",
 
         editor: {
             'theme': aceTheme
